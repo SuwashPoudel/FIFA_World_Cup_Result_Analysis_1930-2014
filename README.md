@@ -1,0 +1,1 @@
+Crafting an immersive FIFA World Cup Dashboard experience through Tableau, providing a comprehensive visual analysis of tournament statistics, team performance, and player insights for enthusiasts and analysts alike.
